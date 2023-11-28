@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Reglas",
+      "image": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/fyyuixusiblbcyiugb8x.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Llaveros",
+      "image": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/dawck6ympwutlqwa6vs2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Señaladores",
+      "image": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/mdxngaan35hna7fyxhvo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Photocards",
+      "image": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/eip5wra8aclphsojs9za.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Posavasos",
+      "image": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/scta11vvwuqdo1wawmwe.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Letras",
+      "image": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/o0hphwdbkmibcz7nuqqe.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": 2,
+      "title": "Llavero L Jiwon",
+      "img": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/o0hphwdbkmibcz7nuqqe.jpg",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "category": 3,
+      "title": "Llavero U Naruto",
+      "img": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/scta11vvwuqdo1wawmwe.jpg",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "title": "Llavero L Loid",
+      "img": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/eip5wra8aclphsojs9za.jpg",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "category": 3,
+      "title": "Llavero Letras Violetas",
+      "img": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/dawck6ympwutlqwa6vs2.jpg",
+      "price": 950
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "title": "Posavaso Tsuki",
+      "img": "https://res.cloudinary.com/ecommerce-tea/image/upload/v1697231606/bana/eip5wra8aclphsojs9za.jpg",
+      "price": 2600
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ]
+}
